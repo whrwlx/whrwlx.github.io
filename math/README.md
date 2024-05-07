@@ -1,1 +1,1 @@
-$\Large \texttt{这里是math.wiki}$
+$\Large {这里是math.wiki}$
